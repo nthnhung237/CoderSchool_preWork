@@ -4,7 +4,7 @@
 
 Submitted by: **Nguyen Thi Hong Nhung**
 
-Time spent: **14** hours spent in total
+Time spent: **24** hours spent in total
 
 ## User Stories
 
